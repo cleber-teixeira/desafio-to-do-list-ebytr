@@ -1,7 +1,7 @@
 # Bem-vindos ao To-Do List Ebytr
 ---
 
- ![Em construção!](http://www.campogrande.ms.gov.br/sedesc/wp-content/uploads/sites/20/2018/11/output_zvmmKf.gif)
+<img src="https://clipartmag.com/images/website-under-construction-image-6.gif">
 
 > Esse projeto está sendo desenvolvido para uma vaga de **_Pessoa Desenvolvedora Jr_** na empresa **Ebytr**.
 
